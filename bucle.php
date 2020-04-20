@@ -4,5 +4,5 @@
 for($i=1; $i <= 10; $i++){
     echo "Ejecutamos el bucle por $i" . "a vez" . "<br />";
 }
-echo "Vamos a probar cuánto vale fuera del bucle la variable i=$i";
+echo "Vamos a probar cuánto vale fuera del bucle la variable i=$i" . "<br />";
 ?>
